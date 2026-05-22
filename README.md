@@ -113,5 +113,4 @@ Original problem platform:
 
 ## Author
 
-Runqi Wang
-Shanghai Jiao Tong University
+Runqi Wang, Shanghai Jiao Tong University
